@@ -1,0 +1,11 @@
+query;start;end
+Je veux aller de $1 à $2;$1;$2
+Je voudrai faire $1 $2;$1;$2
+Je dois partir à 11h à $1 pour arriver à 13 à $2;$1;$2
+En partant à 5h de $1 vers $2 je voudrais arriver avant 10h;$1;$2
+$1 $2 en partant à 18h;$1;$2
+J'ai besoin d'arriver à $2 en étant parti de $1;$1;$2
+J'arrive de $1 vers 13h et je voudrais pouvoir être à $2 vers 16h;$1;$2
+je veux arriver de $1 à $2 en étant partit à 16h de $1;$1;$2
+je veux arriver à $2 en prenant mon train à $1;$1;$2
+Je voudrais que mon arriver pour $2 soit pour 18h en étant partis de $1;$1;$2

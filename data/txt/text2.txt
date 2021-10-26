@@ -1,0 +1,76 @@
+Rang	Commune	Population municipale 2017
+1	Paris	2 187 526
+2	Marseille	863 310
+3	Lyon	516 092
+4	Toulouse	479 553
+5	Nice	340 017
+6	Nantes	309 346
+7	Montpellier	285 121
+8	Strasbourg	280 966
+9	Bordeaux	254 436
+10	Lille	232 787
+11	Rennes	216 815
+12	Reims	182 460
+13	Saint-Étienne	172 565
+14	Toulon	171 953
+15	Le Havre	170 147
+16	Grenoble	158 454
+17	Dijon	156 920
+18	Angers	152 960
+19	Nîmes	150 610
+20	Saint-Denis (La Réunion)	147 931
+21	Villeurbanne	147 712
+22	Clermont-Ferrand	143 886
+23	Le Mans	142 946
+24	Aix-en-Provence	142 482
+25	Brest	140 064
+26	Tours	135 787
+27	Amiens	134 057
+28	Limoges	132 175
+29	Annecy	126 924
+30	Perpignan	120 158
+31	Boulogne-Billancourt	120 071
+32	Orléans	116 685
+33	Metz	116 429
+34	Besançon	115 934
+35	Saint-Denis	111 135
+36	Argenteuil	110 210
+37	Rouen	110 145
+38	Montreuil	109 897
+39	Mulhouse	109 443
+40	Caen	105 354
+41	Saint-Paul	104 519
+42	Nancy	104 286
+43	Tourcoing	97 368
+44	Roubaix	96 990
+45	Nanterre	95 105
+46	Vitry-sur-Seine	93 557
+47	Avignon	91 921
+48	Créteil	90 605
+49	Poitiers	88 291
+50	Dunkerque	87 353
+51	Aubervilliers	86 375
+52	Versailles	85 862
+53	Aulnay-sous-Bois	85 740
+54	Asnières-sur-Seine	85 191
+55	Colombes	85 177
+56	Saint-Pierre	84 212
+57	Courbevoie	81 719
+58	Fort-de-France	80 041
+59	Cherbourg-en-Cotentin	79 200
+60	Le Tampon	78 629
+61	Rueil-Malmaison	78 152
+62	Champigny-sur-Marne	77 630
+63	Béziers	77 177
+64	Pau	77 130
+65	La Rochelle	75 735
+66	Saint-Maur-des-Fossés	74 859
+67	Calais	73 911
+68	Cannes	73 868
+69	Antibes	72 999
+70	Drancy	71 318
+71	Ajaccio	70 659
+72	Mérignac	70 105
+73	Saint-Nazaire	69 993
+74	Colmar	69 105
+75	Issy-les-Moulineaux	68 451

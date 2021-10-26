@@ -1,0 +1,5 @@
+venv/
+data/mini_speech_commands/
+bootstrap/discours
+api/venv/
+*__pycache__/

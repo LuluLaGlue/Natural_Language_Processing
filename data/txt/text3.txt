@@ -1,0 +1,104 @@
+
+    Agde
+    Agen
+    Aix en Provence
+    Aix en Provence TGV
+    Aix-les-Bains
+    Alberville
+    Amiens
+    Angers Saint-Laud
+    Angoulême
+    Annecy
+    Annemasse
+    Antibes
+    Arcachon
+    Arles
+    Arras
+    Auray
+    Avignon TGV
+    Avignon ville
+    Beaune
+    Belfort
+    Besançon Franche Comté TGV
+    Besançon Viotte
+    Biarritz
+    Bordeaux Saint Jean
+    Bourg en Bresse
+    Brest
+    Brive la Gaillarde
+    Bruxelles Midi
+    Cannes
+    Chalon sur Saône
+    Châlons en Champagne
+    Chambéry
+    Champagne Ardenne TGV
+    Cherbourg
+    Clermont-Ferrand
+    Creusot TGV
+    Dijon
+    Évian-les-Bains
+    Genève Cornavin
+    Grenoble
+    Hyères
+    La Baule Escoublac
+    La Rochelle
+    Lausanne
+    Laval
+    Le Havre
+    Le Mans
+    lens
+    Les Arcs Draguignan
+    Lille Europe
+    Lille Flandres
+    Limoges Bénédictins
+    Lorient
+    Lourdes
+    Lyon Part Dieu
+    Lyon Perrache
+    Lyon Saint Exupéry TGV
+    Marseille Saint Charles
+    Massy TGV
+    Menton
+    Metz
+    Montauban
+    Montélimar
+    Montpellier
+    Mulhouse
+    Nancy
+    Nantes
+    Nevers
+    Nice
+    Nîmes
+    Orléans les Aubrais
+    Orléans Ville
+    Paris Austerlitz
+    Paris Bercy
+    Paris Est
+    Paris Lyon
+    Paris Montparnasse
+    Paris Nord
+    Paris Saint Lazare
+    Pau
+    Perpignan
+    Poitiers
+    Reims
+    Rennes
+    Roissy TGV
+    Rouen Rive Droite
+    Saint Brieuc
+    Saint Etienne Châteaucreux
+    Saint Malo
+    Saint Nazaire
+    Saint Pierre des Corps
+    Saint-Raphaël
+    Strasbourg
+    TGV Haute Picardie
+    Toulon
+    Toulouse Matabiau
+    Tours
+    Troyes
+    Valence TGV
+    Valence Ville
+    Valenciennes
+    Vannes
+    Vendôme TGV

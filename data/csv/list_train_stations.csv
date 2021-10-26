@@ -1,0 +1,819 @@
+id;station
+0;mauriac-lycée-cortat
+1;paris-montparnasse 1-2
+2;st-dizier
+3;grasse
+4;rochefort
+5;nîmes
+6;bréauté-beuzeville
+7;la bresse le lispach
+8;rang du fl. verton ber.
+9;trier-hbf (trèves)
+10;cluses (hte-savoie)
+11;luc-en-diois
+12;meymac
+13;port-bou
+14;esvres
+15;verneuil-sur-serre
+16;haguenau-moulin-neuf.
+17;la brohinière
+18;lugny
+19;vezin-carrefour
+20;bouxwiller-schattenmann
+21;périgueux
+22;st-aignan-noyers
+23;longwy
+24;igney (centre)
+25;st-lô
+26;sarre-union
+27;paris-st-lazare
+28;thann-saint-jacques
+29;chagny
+30;diemeringen
+31;audun-le-roman
+32;prissé-la-charrière
+33;cerbère
+34;krimmeri-meinau
+35;le-blanc-pl-du-bateau
+36;clermont-ferrand
+37;nouan-le-fuzelier
+38;les sables-d'olonne
+39;st-aignan-lep
+40;thann arrêt la poste
+41;châteauroux-l-giraudoux
+42;montereau
+43;sarrebourg (place math)
+44;st-aignan-pl-wilson
+45;chamonix-mont-blanc
+46;riom_es_m_la_poste.
+47;lamballe
+48;nogent-sur-seine
+49;mâcon-loché-tgv
+50;abancourt
+51;lesparre
+52;revigny
+53;obermodern
+54;st christophe / nais c.
+55;beslé
+56;erstein
+57;veigné
+58;st-mariens-st-yzan
+59;montélimar-g-routière
+60;montbazon
+61;reignac
+62;coutras
+63;retiers
+64;serquigny
+65;mulhouse-gare-centrale
+66;rouen-rive-droite
+67;paris-montp.3-vaug.
+68;lyon-perrache-gare-rout
+69;narbonne
+70;lourdes
+71;besançon-franche-comté
+72;mulhouse
+73;bléré-la-croix
+74;forbach
+75;longuyon (collège)
+76;limoux
+77;bar-le-duc
+78;fénétrange (gendarm.)
+79;lyon-part-dieu-gare-rou
+80;paris-bercy
+81;dijon-ville
+82;arvant
+83;carnoules
+84;messac-guipry
+85;montauban-ville-bourbon
+86;st-flour-les-allées
+87;boussens
+88;auxerre-st-gervais
+89;cannes-la-bocca
+90;ambérieu-en-bugey
+91;saumur
+92;st-jean-de-bassel-eglis
+93;vorey
+94;clion-sur-indre
+95;argentine
+96;arches
+97;issoudun
+98;vichy
+99;thesee
+100;volvic
+101;pont-audemer-gare-sncf
+102;cambo-les-bains
+103;marmande
+104;chartres-gare-routière
+105;sucé-sur-erdre
+106;voves
+107;reignac-bourg-du-fau
+108;la douzillère
+109;bédarieux
+110;bar-sur-aube
+111;kédange (eglise)
+112;bussang (gare sncf)
+113;marvejols place chayla
+114;corcieux le conti
+115;firminy
+116;longuyon
+117;rodange
+118;tergnier
+119;aubigny-sur-nere-mail
+120;louhans
+121;angers-st-laud
+122;figeac
+123;bruyères (vosges)
+124;lauterbourg
+125;epierre-st-léger
+126;dormans
+127;tournai
+128;egletons
+129;ribécourt
+130;loches-lycee-st-denis
+131;issoire-lycée-deville
+132;villefranche-sur-saône
+133;montauban-de-bretagne
+134;capdenac
+135;allamps-esat
+136;sarrebourg-hôpital
+137;grenoble
+138;annecy
+139;lamotte-beuvron
+140;aubrais-(les)
+141;wingen-sur-moder
+142;ste-croix/mines-sq-de-g
+143;valence-ville
+144;redon
+145;virieu-le-grand-belley
+146;oissel
+147;toulon
+148;hyères
+149;pfaffenhoffen-(mairie).
+150;lyon-part-dieu
+151;herbitzheim r. hambach
+152;roeschwoog
+153;sedan
+154;l'arbresle
+155;colomiers
+156;le-mont-dore-gare
+157;neufchâteau
+158;rolleville
+159;caen
+160;tulle
+161;luzy(nièvre)
+162;chatellerault
+163;font-romeu-odeillo-via
+164;montchanin
+165;la rochelle-ville
+166;woerth rhein
+167;châteaubriant
+168;andelot
+169;bellegarde-s-v. gare
+170;sablé-sur-sarthe
+171;mâcon-ville
+172;clermont-de-l'oise
+173;sens
+174;sarralbe
+175;vierzon-médiathèque
+176;montluçon-ville
+177;sarrebourg
+178;reims
+179;besançon-viotte
+180;genève
+181;st-jean-de-maurienne-a.
+182;limoges-bénédictins
+183;franois
+184;sèlestat-(schwilgué)
+185;bitche-quartier-driant
+186;pontgibaud-ville
+187;château-renault
+188;pornic
+189;annemasse
+190;reipertswiller-sp.
+191;montreuil-sur-ille
+192;baroncourt
+193;le buisson
+194;marvejols
+195;ancenis
+196;st-gervais-mairie
+197;lutzelbourg
+198;castres
+199;lyon-st-paul
+200;lamure-sur-azergues
+201;ventimiglia-stazione
+202;mazamet
+203;l'isle-jourdain (gers)
+204;bas-monistrol
+205;marseille-st-charles
+206;besançon-mouillère
+207;langon
+208;hendaye
+209;st omer
+210;altkirch
+211;chinon-lycée-rabelais
+212;loches
+213;tours
+214;vallorcine
+215;sarrebourg-lp-messmer
+216;le locle
+217;langogne
+218;die
+219;la souterraine
+220;aubagne
+221;albi-ville
+222;dijon-porte-neuve
+223;gramat
+224;calais fréthun
+225;normandie
+226;villefranche-vernet-l.b
+227;ancizes-st-georges-bour
+228;communay-stade
+229;pontorson-mt-st-michel
+230;st-martin-d'hères
+231;le mont st michel
+232;ternay-barbières
+233;st-eloy-les-mines-lycée
+234;st-georges-d'aurac
+235;dieppe
+236;surdon
+237;lure
+238;evian-les-bains
+239;vallorbe-cff
+240;dossenheim-(mairie)
+241;felletin-gare
+242;le puy-en-velay
+243;fougères
+244;cholet
+245;saint-cyprien-arènes
+246;urcay-hotel-du-lyon-d'o
+247;libourne
+248;riom-châtel-guyon
+249;sewen-(eglise)
+250;mutzig-passage-a-niveau
+251;saintes
+252;carhaix
+253;versailles-chantiers
+254;ussel
+255;vendeuvre (aube)
+256;winden pfalz
+257;st-chély-d'apcher
+258;mouchard
+259;paris-est
+260;st-gervais-l-b-le-fayet
+261;vire-centre
+262;noirétable
+263;offenburg
+264;les laumes-alésia
+265;obernai
+266;st-pierre-des-corps
+267;gardanne
+268;rothau
+269;durtol-nohanent
+270;poitiers
+271;bourges
+272;granville
+273;mons
+274;marle-sur-serre
+275;laveline-d-bruy. mairie
+276;raedersheim
+277;benfeld
+278;pontarlier
+279;bourg-en-bresse
+280;st-eloy
+281;menton
+282;bitche
+283;le-breuil-sur-couze-lyc
+284;bueil
+285;lapeyrouse(puy-de-dôme)
+286;issoudun-place-de-la-g.
+287;pauillac
+288;lunel
+289;aiton-salle-polyvalente
+290;toulouse-matabiau
+291;oyonnax
+292;carpentras
+293;tassin
+294;entzheim-aéroport
+295;romilly-sur-seine
+296;arcachon
+297;st-malo
+298;barr
+299;etaples le touquet
+300;decize
+301;briançon
+302;vallon-en-sully
+303;bresse-claudel (la)
+304;barenton-sur-serre
+305;carcassonne
+306;langeac
+307;millau
+308;abbeville
+309;longueville (s.-et-m.)
+310;nan
+311;châteaudun
+312;morteau
+313;douai
+314;riquewihr-poste
+315;romans-bourg-de-péage
+316;st-amand-montrond-orval
+317;culmont-chalindrey
+318;béthune
+319;sélestat-(schweisguth)
+320;foix
+321;payns abri savières
+322;toury
+323;montpellier-saint-roch
+324;gannat
+325;beauvais-gare-sncf
+326;bourgoin-jallieu
+327;delle
+328;ste-marie-sur-ms-pl-.cdg
+329;bressuire
+330;tessonnières
+331;le-verdon
+332;janzé
+333;montivilliers
+334;quimperlé
+335;rambervillers
+336;dives-cabourg
+337;grandris-centre
+338;paimpol
+339;la-rochelle-pt-dauphine
+340;breil-sur-roya
+341;chaumont
+342;mirecourt (lycée agric)
+343;vierzon
+344;montmédy
+345;sancerre-porte-cesar
+346;mussidan
+347;kehl
+348;bordeaux-st-jean
+349;pagny-sur-moselle
+350;brest
+351;lille europe
+352;nogent-le-rotrou
+353;ste-pazanne
+354;ingwiller
+355;lyon-gorge-de-loup
+356;la tour-du-pin
+357;bedous
+358;givet
+359;châteaubriant-tt
+360;biel
+361;hattmatt-s.-polyvalente
+362;poule-mairie
+363;pont-de-dore
+364;poligny
+365;briouze
+366;sérézin
+367;verdun
+368;saint-etienne-chtx gr
+369;luneville-lp
+370;dinan
+371;mirecourt
+372;avignon-tgv
+373;agen
+374;busigny
+375;sain-bel
+376;bening
+377;condat-le-lardin
+378;valence-gare-routière
+379;connerré-beillé
+380;hazebrouck
+381;albert
+382;lorient
+383;boën
+384;neufchateau-lp
+385;valence-tgv
+386;cannes
+387;savenay
+388;bouxwiller-babenhausen
+389;la bastide-st-laurent
+390;veynes-dévoluy
+391;dourdan
+392;namur
+393;carol
+394;barentonâ cel
+395;château-thierry
+396;montbéliard-ville
+397;bayonne
+398;lièpvre-(rte-vancelle)
+399;rue
+400;brou
+401;privas-cours-du-palais
+402;bettembourg
+403;laval
+404;vittel
+405;argentan
+406;souillac
+407;montmélian
+408;dole-ville
+409;bonneville
+410;massiac-blesle
+411;droué (centre)
+412;latour-de-carol-enveitg
+413;herbitzheim mairie
+414;montréjeau-gourdan-pol.
+415;avesnes
+416;carmaux
+417;bort-les-orgues
+418;st-pierre-d'albigny
+419;avignon-centre
+420;romorantin-blanc-argent
+421;monaco-monte-carlo
+422;ville-sous-la-ferté
+423;manosque-gréoux
+424;nort-sur-erdre
+425;mouscron / moeskroen
+426;modane
+427;moyen
+428;laissac-foirail
+429;saverne-(lycée-verne)
+430;is-sur-tille
+431;tourcoing
+432;gérardmer la mauselaine
+433;martigues
+434;le havre
+435;valençay
+436;thouars
+437;aulnoye aymeries
+438;monsempron-libos
+439;st-marcellin
+440;le creusot
+441;vendôme
+442;pompadour
+443;herrlisheim (bas-rhin)
+444;chalon-sur-saône
+445;charleville-mézières
+446;châlons-en-champagne
+447;aix-gare-routière
+448;neuwiller-r.-bouxwiller
+449;liepvre-(-r.-guth-)
+450;luchon-richelieu
+451;courtalain-centre
+452;la-bresse (pl champtel)
+453;luxembourg
+454;feurs
+455;dompierre-halte-rout.
+456;bidos
+457;wambrechies
+458;poitiers-gare-routière
+459;nexon
+460;st-flour-chaudes-aigues
+461;bayel-eglise
+462;alès
+463;culoz
+464;st-george-d'aurac-bourg
+465;moûtiers-salins-brides
+466;perl gare db
+467;antibes
+468;juvancourt
+469;elbeuf-st-aubin
+470;miramas
+471;génolhac
+472;aubenas-pl.-de-la-paix
+473;chambourg-chopin
+474;pessac
+475;frohmuhl- (lavoir)
+476;bricon(la poste)
+477;st-emilion
+478;toul
+479;st-andré-le-gaz
+480;romorantin-ba-g.r.
+481;vannes
+482;dol
+483;basel-sbb
+484;saales
+485;le dorat
+486;evreux
+487;nancy-ville
+488;brive-la-gaillarde
+489;truyes-pl-du-souvenir
+490;tonnerre
+491;troyes
+492;lyon-perrache
+493;truyes-st-blaise
+494;tarbes
+495;mantes-la-jolie
+496;lyon-st-paul-la-feuilée
+497;st-gilles-croix-de-vie
+498;mommenheim
+499;royan
+500;l'aigle
+501;vézelise beauregard
+502;chaumont-sur-tharonne
+503;st-nazaire
+504;port-boulet
+505;la roche-sur-yon
+506;pamiers
+507;roanne-gare-routière
+508;la chaux-de-fonds
+509;ax-les-thermes
+510;brioude-lycée-lafayette
+511;coppet
+512;albertville
+513;nantes
+514;clelles-mairie
+515;remiremont
+516;nevers-le-banlay
+517;salbris
+518;luchon
+519;chinon
+520;bitche-camp
+521;liverdun
+522;mauriac
+523;comines (france)
+524;limeray
+525;st pol sur ternoise
+526;le tréport-mers-les-b
+527;le croisic
+528;chedde
+529;mende
+530;lutterbach tram-train
+531;vesoul
+532;biganos-facture
+533;bourg-en-bresse gare r
+534;la verrière
+535;st-brieuc
+536;castelnaudary
+537;st-jean-pied-de-port
+538;brignais
+539;rémilly
+540;châteauroux-lycée-agric
+541;callac
+542;kruth
+543;saverne-(ht-barr)
+544;saint-claude
+545;loudrefing
+546;les arcs-draguignan
+547;aix-en-provence
+548;bois-d'oingt-centre
+549;st-yrieix-la-perche
+550;amiens
+551;bagnoles- orne egl.mad.
+552;roanne
+553;st-pierre-le-moûtier
+554;pau
+555;boulogne ville
+556;argenton-sur-creuse
+557;fismes
+558;bergerac
+559;villers-les-pots
+560;lyon-st-paul-quai-bondy
+561;trouville-deauville
+562;albens
+563;nice-ville
+564;le mont dore ski
+565;sathonay-rillieux
+566;coutances
+567;vic-le-comte
+568;blois-chambord
+569;st-vit
+570;st-pierre-de-chandieu-r
+571;jeumont
+572;vertaizon
+573;angoulême
+574;martigny-les-b-thiebaut
+575;st-priest
+576;cahors
+577;etang
+578;chartres
+579;vernon-giverny
+580;st-sulpice-sur-lèze
+581;sélestat
+582;ettendorf-pl,-de-l'ecol
+583;laroche-migennes
+584;rennes
+585;st-germain-des-fossés
+586;lille flandres
+587;longages-noé
+588;grenoble u.-gières
+589;la roche-sur-foron
+590;commentry
+591;seurre
+592;montargis-ot
+593;st-just-sncf
+594;charleroi sud
+595;ste-marie/-ms-(-théâtre
+596;hombourg (chapelle)
+597;puyoô
+598;perpignan
+599;béziers
+600;issoire
+601;cosne-sur-loire
+602;touet-de-l'escarène
+603;crépy-en-valois
+604;landerneau
+605;gien
+606;sospel
+607;pierrelatte
+608;pont-de-beauvoisin
+609;bourges-gare-routière
+610;joinville
+611;munster
+612;paris gare du nord
+613;grenoble-gare-routière
+614;vitry-le-françois
+615;vitré
+616;pont-st-vincent
+617;persan-beaumont
+618;champagnole-pe-victor
+619;nevers
+620;creutzwald g.r.
+621;lannion
+622;saarbrücken /sarrebruck
+623;paray-le-monial
+624;eguzon
+625;guingamp
+626;st-junien
+627;lunéville
+628;le lioran
+629;hirson
+630;auxonne
+631;thiers
+632;alençon
+633;lisieux
+634;ste-marie-sur-mines-maire
+635;fécamp
+636;aillevillers
+637;luçay-le-male
+638;neustadt (weinstr) hbf
+639;niort
+640;saillat-chassenon
+641;villedieu (gare)
+642;brioude
+643;lozanne
+644;meroux
+645;compiègne
+646;le mans
+647;aix-les-bains-le-revard
+648;macau
+649;sarralbe centre
+650;mondoubleau-rue-leroy
+651;castelsarrasin
+652;niederbronn
+653;belfort-ville
+654;muret
+655;rumilly
+656;st-dié-des-vosges
+657;montreux-vieux
+658;freiburg-breisgau
+659;sarreguemines
+660;langres-gendarmerie
+661;objat
+662;rouen-gare-routière
+663;laon
+664;cambrai ville
+665;château-gaillard
+666;dreux
+667;landau-pfalz-hbf
+668;f
+669;marseille-blancarde
+670;st-etienne-châteaucreux
+671;laqueuille
+672;contrexéville
+673;neussargues
+674;sarlat
+675;sète
+676;paris-gare-de-lyon
+677;quimper
+678;st-louis-57-incliné
+679;thann
+680;thionville
+681;sedan-place-calonne
+682;saint-léonard centre
+683;plouaret-trégor
+684;dunkerque
+685;clelles-mens
+686;molsheim
+687;st-denis-près-martel
+688;la chaise-dieu
+689;damblain eglise
+690;sarrebourg-abri-phalsbo
+691;vauvert
+692;dax
+693;eymoutiers-vassiviere
+694;champagnole
+695;wissembourg
+696;quillan
+697;travers
+698;hirson-ecoles
+699;cercy-la-tour
+700;cernay-(lycée)
+701;vienne
+702;paris-austerlitz
+703;neuchâtel
+704;lunéville (cité scolai)
+705;port-de-piles
+706;thonon-les-bains
+707;gap
+708;la ferté-sur-chiers
+709;epinal
+710;romorantin-lycée-de-f
+711;bouzonville
+712;berthelming-mairie
+713;st-raphaël-valescure
+714;guéret
+715;clisson
+716;nouzonville
+717;st-sulpice (tarn)
+718;jougne
+719;lichtenberg-(eglise).
+720;cormery
+721;mont-de-marsan
+722;oloron-ste-marie
+723;châteauroux-charmilles
+724;issoudun-jardin
+725;conflans-jarny
+726;buswiller-eglise
+727;metz-ville
+728;chamberry-jacob
+729;courtalain-st-pellerin
+730;routot-place-de-mairie
+731;willer-sur-thur
+732;chatillon-mail
+733;chambéry-chal.-les-eaux
+734;mullheim-baden-bf
+735;st quentin
+736;ribeauville-gare-routiè
+737;annonay-gare-route
+738;vif
+739;yvetot
+740;frasne
+741;epernay
+742;auch
+743;orange
+744;niedermodern/uberach
+745;loches-lep
+746;le grau-du-roi
+747;cavaillon
+748;wesserling
+749;saverne
+750;rosporden
+751;rives
+752;chauffailles-gambetta
+753;saverne-(pl.-dragons)
+754;lison
+755;montbrison
+756;tende
+757;avallon
+758;clamecy
+759;châteauroux-ly-b-pascal
+760;rethel
+761;vendôme-villiers-s-loir
+762;lons-le-saunier
+763;metzeral
+764;ambert
+765;colmar
+766;ettendorf-(angle-pont)
+767;morhange
+768;keskastel
+769;champagne-ardenne
+770;buzançais
+771;calais ville
+772;corbigny
+773;flers
+774;bourg-st-maurice
+775;courtrai/kortrijk
+776;aurillac
+777;haguenau
+778;châteauroux
+779;maubeuge
+780;les granges-narboz
+781;lens
+782;givors-ville
+783;mauzé
+784;le valdahon
+785;faubourg-d'orléans
+786;laon-gare-routière-poma
+787;morcenx
+788;moulins-sur-allier
+789;hagondange
+790;sisteron
+791;valenciennes
+792;charmes (vosges)
+793;st-gervais-ch-lpa.
+794;bruyères chanzy gare
+795;la forest
+796;cernay (haut-rhin)
+797;delémont
+798;vienne-gare-routière
+799;digoin
+800;st-florentin-vergigny
+801;morlaix
+802;château-du-loir
+803;cherbourg
+804;strasbourg
+805;rodez
+806;arras
+807;neuilly-lès-dijon
+808;tours lycee grandmont
+809;chantonnay
+810;creil
+811;st-rambert-en-bugey
+812;orléans
+813;rambervillers (11 nov)
+814;châteauroux gare rout.
+815;châteaudun-lep-paulsen
+816;autun
+817;morez lycée
