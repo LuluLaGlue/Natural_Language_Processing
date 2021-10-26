@@ -29,9 +29,12 @@ for file in filenames:
     lemmatized_words = [
         lemmatizer.lemmatize(word) for word in tokenized_string
     ]
+
     for word in lemmatized_words:
+
         if word.casefold() not in stop_words:
             filtered_list.append(word)
+
     data.append(' '.join(filtered_list))
 
 b.filenames = filenames
