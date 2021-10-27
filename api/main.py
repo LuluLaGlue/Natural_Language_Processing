@@ -87,6 +87,19 @@ def search_cities(quote):
             elif location in all_cities:
                 cities.append(location)
 
+    # NOT OK FIRST LOOP NOT WORKING
+    # r = ['', '']
+    # if len(cities) >= 2:
+    #     for id, w in enumerate(doc):
+    #         word = unidecode.unidecode(w.text).lower()
+    #         print(word)
+    #         for city in enumerate(cities):
+    #             if word == city:
+    #                 if is_destination(doc[id - 1]):
+    #                     r[1] == word
+    #                 elif is_departure(doc[id - 1]):
+    #                     r[0] == word
+
     return cities
 
 
