@@ -130,6 +130,12 @@ def shortest_path(start, end):
     e = unidecode.unidecode(end)
     p, t, err, i = graph.getPath(s, e)
 
+    if err:
+        p, t, err, i = graph.getPath(e, s)
+
+        if not err:
+            p.reverse()
+
     return p, t, err, i
 
 
